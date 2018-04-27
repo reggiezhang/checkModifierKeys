@@ -1,3 +1,4 @@
+#import <Carbon/Carbon.h>
 int main (int argc, const char * argv[]) {
     unsigned int modifiers = GetCurrentKeyModifiers();
     if (argc == 1)
