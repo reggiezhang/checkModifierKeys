@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc  -framework Carbon CheckModKeys.m -o CheckModKeys
+gcc  -framework Carbon checkModKeys.m -o checkModKeys
